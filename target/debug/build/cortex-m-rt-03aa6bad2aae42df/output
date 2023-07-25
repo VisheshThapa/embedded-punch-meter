@@ -1,3 +1,0 @@
-cargo:rustc-link-search=/home/vish/Coding/embedded-punch-meter/target/debug/build/cortex-m-rt-03aa6bad2aae42df/out
-cargo:rerun-if-changed=build.rs
-cargo:rerun-if-changed=link.x.in
